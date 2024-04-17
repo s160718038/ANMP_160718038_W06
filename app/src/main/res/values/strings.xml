@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ANMP 160718038 W06</string>
+    <string name="detail">Detail</string>
+    <string name="student_id">Student ID</string>
+    <string name="full_name">Full Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="performance">Performance</string>
+    <string name="features">Features</string>
+</resources>
